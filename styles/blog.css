@@ -1,0 +1,13 @@
+ul>li{
+    display: inline;
+    text-align: center;
+    justify-content: space-between;
+    gap: 60px;
+}
+div{
+    background-color:cornflowerblue;
+    height: 50px;
+    padding: 20px;
+    text-align: center;
+
+}
